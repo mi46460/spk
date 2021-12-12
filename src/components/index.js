@@ -1,7 +1,4 @@
 import React, { useState, useEffect } from "react";
-import logo from '../add-button-svgrepo-com.svg'
-// import Table from 'react-bootstrap/Table'
-import { Table } from "react-bootstrap";
 
 export default function Project() {
     const [data, setData] = useState([]);
